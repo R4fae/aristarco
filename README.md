@@ -1,0 +1,2 @@
+# aristarco
+curso diseño grafico 
